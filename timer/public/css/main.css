@@ -1,0 +1,45 @@
+.main{
+    background: #6CADFF 100%;
+    width:  1440px;
+    height: 1024px;
+}
+
+.title{
+  position: absolute;
+  top: 80px;
+  left: 637px;
+  font-family:'Open Sans', sans-serif;
+  font-size: 24px;
+  color: #FFFFFF;
+  letter-spacing: 7.69px;
+}
+
+.myTask{
+  background: #6CADFF 100%;
+  position: absolute;
+  top: 528px;
+  left: 330px;
+  font-family:'Open Sans', sans-serif;
+  font-size: 20px;
+  color: #FFFFFF;
+  width: 700px;
+  border-top-style: none;
+  border-right-style: none;
+  /*border-bottom-style: dashed;*/
+  border-left-style: none;
+  border-bottom-color: #000000;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+
+}
+
+.submit{
+  position: absolute;
+  top: 474px;
+  left: 1050px;
+  background: transparent url("/img/Group3.png") 0 0 no-repeat;
+  display: inline-block;
+
+}
